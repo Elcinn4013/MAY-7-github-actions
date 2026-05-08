@@ -178,7 +178,7 @@ Proving that CI catches failures is as important as seeing it pass.
 2. Commit and push the fix
 3. Watch the pipeline go green again
 4. **Take a screenshot** of the Actions tab showing at least one red ✗ and one green ✓ run
-
+![CI Result](assets/ciyml.png)
 ---
 
 ### Task 6: Add Manual Trigger
