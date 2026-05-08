@@ -255,3 +255,5 @@ The badge updates in real-time with each pipeline run.
 # Super extra bonus (if you get bored 😅)
 
 Check the [README-BONUS.md](README-BONUS.md) and complete as many exercises as you can.
+
+![CI Result](assets/ciyml.png)
